@@ -14,3 +14,4 @@ Relations in `binary.pl` contains:
 * Determine if a list only contains binary numbers
 * Determine if a list of a given length only contains binary numbers
 * Find all binary lists of a given length
+* Decides if a list is a binary de Bruijn of the given length.
